@@ -1,13 +1,15 @@
 AMS Short Course on Open Source Radar Software
 =============================
 
+
+
 Render this document as pdf by ``rst2pdf course_outline.rst``
 
 **08:30 - 09:15** `ARRIVAL AND INTRODUCTIONS AND INSTALLATION OF SOFTWARE AND DATA`_::
 
-   Taking seats, booting notebooks...
+    Taking seats, booting notebooks, setting up the virtual machines...
 
-   Intro slides by Scott.
+    Intro slides.
 
 **09:15 - 9:30** `AN INTRODUCTION TO PYTHON AND IPYTHON`_::
 
@@ -17,109 +19,62 @@ Render this document as pdf by ``rst2pdf course_outline.rst``
 
     Scipy, Numpy and Matplotlib
 
-    What is IPython and the IPython notebook? 
+    What is IPython and the IPython notebook?
 
 **9:30 - 10:00** `BASIC PY-ART AND THE PY-ART DATA MODEL`_::
 
     How Py-ART reads data into Python and how to access the raw data
-  
+
 **10:00 - 10:15** Coffee break
 
-**10:15 - 11:30** `BASIC PY-ART AND THE PY-ART DATA MODEL`_::
+**10:15 - 11:00** `BASIC PY-ART AND ARTVIEW ASSISTED VISUALIZATION`_::
 
-   Plotting in Py-ART
+    Plotting in Py-ART/ARTView
 
-**11:30 - 12:00** `EXAMPLES OF RADAR PROCESSING USING PY-ART`_::
+**11:00 - 12:00** `EXAMPLES OF RADAR PROCESSING USING PY-ART`_::
 
-   Example based study from Miami of how to view data, modify data and add the
-   data to a radar object
+    Example how to view data, modify data and add the data to a radar object.
+
+    The Gatefilter and how to use it.
+
+    Processing: Texture and dealiasing.
+
+    Gridding: Gridding one or more radars.
 
 **12:00 - 13:30** Lunch break
 
+**13:30 - 14:00** `USING ARTVIEW`_::
 
-**13:30 - 14:00** `EXAMPLES OF RADAR PROCESSING USING PY-ART`_::
+    Exploration of ARTView functionalists.
 
-    Example based study from Miami of how to view data, modify data and add the
-    data to a radar object
+    Examples of ARTView flexible design
 
+**14:00 - 14:30** `INSIDE ARTVIEW`_::
 
-**14:00 - 14:30** `Py-ART TOOLS, TEXTURE, DEALIAS AND GRID`_::
+    A look into how ARTView is organized internally and how it uses pyart
 
-   The Gatefilter and how to use it.
+    Example writing a plugin for artview
 
-   Processing: Texture and dealiasing.
+**14:30 - 15:00** `PYTHON TOOLS 1`_::
 
-   Gridding: Gridding one or more radars. 
-
-**14:30 - 15:00**  `PYTHON TOOLS 1: ART-VIEW`_::
-
-     How to use the ARTview visualization package.
-     
-     How to launch a "quick" ARTview window from command line during interactive data analysis.
-
+    Present other python tools (e.g.  Wradlib, BALTRAD)
 
 **15:00 - 15:30** Coffee break
 
-**15:30 - 16:15**  `PYTHON TOOLS 2: RADAR MET TOOLS`_::
+**15:30 - 16:15** `PYTHON TOOLS 2`_::
 
-    PyTDMA and CSU Radar Tools
+    Present other python tools (e.g.  Wradlib, BALTRAD)
 
-**16:15 - 17:00** `WRAP UP AND FUTHER DISCUSSION`_::
+    Michael Bell present LROSE
 
-   Questions and comments.
+**16:15 - 17:00** `WRAP UP AND FURTHER DISCUSSION`_::
 
-   Feedback.
+    Questions and comments.
 
+    Feedback.
 
 .. raw:: pdf
 
       PageBreak
 
-
-ARRIVAL AND INTRODUCTIONS AND INSTALLATION OF SOFTWARE AND DATA
----------------------------------------------------------------
-
-Time to settle in and say hello. Course tutors will open the course and introduce themselves and their projects, as well as the general structure and concept of the short course.
-
-
-AN INTRODUCTION TO PYTHON AND IPYTHON
--------------------------------------
-
-Run By Jonathan
-
-BASIC PY-ART AND THE PY-ART DATA MODEL
---------------------------------------
-
-Run By Jonathan
-
-
-EXAMPLES OF RADAR PROCESSING USING PY-ART
------------------------------------------
-
-Investigating data from the Miami Nexrad by Scott.
-
-
-Py-ART TOOLS, TEXTURE, DEALIAS AND GRID
----------------------------------------
-
-All Oklahoma centric run by Scott
-
-
-PYTHON TOOLS 1: ART-VIEW
-------------------------
-
-Nick will show us ART View!
-
-
-PYTHON TOOLS 2: RADAR MET TOOLS
--------------------------------
-
-The Great work from CSU and NASA MSFC by Tim
-
-
-WRAP UP AND FUTHER DISCUSSION
------------------------------
-
-Feedback and further discussion
-ALL
 
