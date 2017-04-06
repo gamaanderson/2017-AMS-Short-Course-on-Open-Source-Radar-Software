@@ -58,9 +58,7 @@ Render this document as pdf by ``rst2pdf course_outline.rst``
 
     Present other python tools (e.g.  Wradlib, BALTRAD)
 
-**16:00 - 16:15** `FUTURE DEVELOPMENTS`_::
-
-    Future developments of the Radar Open Source Community
+**16:00 - 16:15** `LSORE`_::
 
     Michael Bell present LROSE
 
