@@ -58,7 +58,7 @@ Render this document as pdf by ``rst2pdf course_outline.rst``
 
     Present other python tools (e.g.  Wradlib, BALTRAD)
 
-**16:00 - 16:15** `LSORE`_::
+**16:00 - 16:15** `LROSE OVERVIEW`_::
 
     Michael Bell present LROSE
 
