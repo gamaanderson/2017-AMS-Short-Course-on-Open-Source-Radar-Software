@@ -4,19 +4,19 @@ AMS Short Course on Open Source Radar Software
 
 Render this document as pdf by ``rst2pdf course_outline.rst``
 
-**08:30 - 09:15** `ARRIVAL, INTRODUCTIONS AND INSTALLATION OF SOFTWARE AND DATA`_::
+**08:30 - 09:00** `ARRIVAL, INTRODUCTIONS AND INSTALLATION OF SOFTWARE AND DATA`_::
 
     Taking seats, booting notebooks, setting up the virtual machines...
 
     Intro slides.
     Instructor: Anderson Gama
 
-**09:15 - 10:00** `PRESENTATION OF THE SOFTWARES`_::
+**09:00 - 09:45** `PRESENTATION OF THE SOFTWARES`_::
 
     Show software demos, focus on usability and results quality.
     Instructor: Nick Guy
 
-**09:15 - 9:30** `AN INTRODUCTION TO PYTHON`_::
+**09:45 - 10:00** `AN INTRODUCTION TO PYTHON`_::
 
     Python will be the key to use the presented radar software tools.
 
@@ -25,17 +25,12 @@ Render this document as pdf by ``rst2pdf course_outline.rst``
     Scipy, Numpy and Matplotlib.
     Instructor: Robert Jackson
 
-**09:30 - 10:00** `COMMUNITY SOFTWARE DEVELOPMENT BASICS`_::
+**10:00 - 10:15** Coffee break
+
+**10:15 - 10:45** `COMMUNITY SOFTWARE DEVELOPMENT BASICS`_::
 
     How to develop software in an open community.
     Instructor: Daniel Michelson
-
-**10:00 - 10:15** Coffee break
-
-**10:15 - 10:45** `BASIC PY-ART AND THE PY-ART DATA MODEL`_::
-
-    How Py-ART reads data into Python and how to access the raw data
-    Instructor: Robert Jackson
 
 **10:45 - 12:00** `RADAR PROCESSING AND VISUALISATION USING PY-ART`_::
 
