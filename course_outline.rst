@@ -9,10 +9,12 @@ Render this document as pdf by ``rst2pdf course_outline.rst``
     Taking seats, booting notebooks, setting up the virtual machines...
 
     Intro slides.
+    Instructor: Anderson Gama
 
 **09:15 - 10:00** `PRESENTATION OF THE SOFTWARES`_::
 
     Show software demos, focus on usability and results quality.
+    Instructor: Nick Guy
 
 **09:15 - 9:30** `AN INTRODUCTION TO PYTHON`_::
 
@@ -21,16 +23,19 @@ Render this document as pdf by ``rst2pdf course_outline.rst``
     Learn how to use Python for writing scripts and for interactive data analysis.
 
     Scipy, Numpy and Matplotlib.
+    Instructor: Robert Jackson
 
 **09:30 - 10:00** `COMMUNITY SOFTWARE DEVELOPMENT BASICS`_::
 
     How to develop software in an open community.
+    Instructor: Daniel Michelson
 
 **10:00 - 10:15** Coffee break
 
 **10:15 - 10:45** `BASIC PY-ART AND THE PY-ART DATA MODEL`_::
 
     How Py-ART reads data into Python and how to access the raw data
+    Instructor: Robert Jackson
 
 **10:45 - 12:00** `RADAR PROCESSING AND VISUALISATION USING PY-ART`_::
 
@@ -39,28 +44,33 @@ Render this document as pdf by ``rst2pdf course_outline.rst``
     Processing and Gridding
 
     Plotting in Py-ART
+    Instructor: Nick Guy
 
 **12:00 - 13:30** Lunch break
 
-**13:30 - 14:30** `INSIDE ARTVIEW`_::
+**13:30 - 14:30** `DEVELOPMENT OF ARTVIEw, A MODULAR GUI FOR RADAR DATA`_::
 
     The Challenge of writing a Modular Graphical User Interface
 
     Example writing a script for artview
+    Instructor: Anderson Gama
 
-**14:30 - 15:00** `PYTHON TOOLS 1`_::
+**14:30 - 15:00** `HANDS ON BALTRAD`_::
 
-    Present other python tools (e.g.  Wradlib, BALTRAD)
+    Present BALTRAD
+    Instructor: Daniel Michelson
 
 **15:00 - 15:30** Coffee break
 
-**15:30 - 16:00** `PYTHON TOOLS 2`_::
+**15:30 - 16:00** `HANDS ON BALTRAD (CONTINUATION)`_::
 
-    Present other python tools (e.g.  Wradlib, BALTRAD)
+    Present BALTRAD
+    Instructor: Daniel Michelson
 
 **16:00 - 16:15** `LROSE OVERVIEW`_::
 
-    Michael Bell present LROSE
+    Presentation and Demo of LROSE
+    Instructor: Michael Bell
 
 **16:15 - 17:00** `WRAP UP AND FURTHER DISCUSSION`_::
 
