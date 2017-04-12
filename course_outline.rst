@@ -39,11 +39,11 @@ Render this document as pdf by ``rst2pdf course_outline.rst``
     Processing and Gridding
 
     Plotting in Py-ART
-    Instructor: Nick Guy
+    Instructor: Robert Jackson and Nick Guy
 
 **12:00 - 13:30** Lunch break
 
-**13:30 - 14:30** `DEVELOPMENT OF ARTVIEw, A MODULAR GUI FOR RADAR DATA`_::
+**13:30 - 14:30** `DEVELOPMENT OF ARTVIEW, A MODULAR GUI FOR RADAR DATA`_::
 
     The Challenge of writing a Modular Graphical User Interface
 
